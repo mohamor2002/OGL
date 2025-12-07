@@ -80,6 +80,8 @@ public class MatrixSteps {
 
     }
 
+    public void setMat(Matrix mat) {
+    }
    
 }
 
